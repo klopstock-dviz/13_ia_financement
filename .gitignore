@@ -160,4 +160,5 @@ dmypy.json
 cython_debug/
 
 # Precommit hooks: ruff cache
-.ruff_cache
+.ruff_cachepoetry.lock
+poetry.lock
